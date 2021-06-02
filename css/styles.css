@@ -1,0 +1,24 @@
+.flashy {
+  font-style: italic;
+  font-weight: medium;
+  background-color: rgb(187, 44, 104);
+}
+
+.best {
+  font-family: 'Gill Sans'
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+.my-class {
+  text-align: center;
+}
+
+ul {
+  list-style-position: inside;
+}
